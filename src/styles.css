@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+h1{
+   text-align: center;
+}
+
+li{
+   width: 80%;
+   margin-top: 20px;
+}
+
+button{
+   margin-right: 10px !important;
+   margin-top: 10px !important;
+   outline:none !important;
+}
+
+.hour{
+   float: right !important;
+}
